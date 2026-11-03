@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: >-
+  If you use or discuss this research object, cite the accompanying technical
+  preprint and its eventual versioned repository release.
+title: Exact Triaxial Spin-4 Stability Thresholds for an Anisotropic SU(2) Quadratic Operator
+authors:
+  - name: Africa Compute Fund
+version: 1.0.0-preprint
+preferred-citation:
+  type: article
+  title: Exact Triaxial Spin-4 Stability Thresholds for an Anisotropic SU(2) Quadratic Operator
+  authors:
+    - name: Africa Compute Fund
+  year: 2026
